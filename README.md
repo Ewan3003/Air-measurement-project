@@ -1,4 +1,9 @@
 # Air-measurement-project
+<Screenshot 2026-02-19 at 23.38.21.png> <br>
+
+
+
+
 
 ### 1. The Core: ESP32 Microcontroller
 
