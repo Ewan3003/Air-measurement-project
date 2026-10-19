@@ -1,7 +1,9 @@
 # Air-measurement-project 
 <br>
-<img width="768" height="1024" alt="4F48432B-8418-4863-BAA9-BB3B8EF4D9B2_1_105_c" src="https://github.com/user-attachments/assets/677db73a-0f4f-4c5a-a98a-29db9730ad30" />
+<img width="384" height="512" alt="4F48432B-8418-4863-BAA9-BB3B8EF4D9B2_1_105_c" src="https://github.com/user-attachments/assets/677db73a-0f4f-4c5a-a98a-29db9730ad30" />
 <br>
+
+
 
 
 ### 1. The Core: ESP32 Microcontroller
